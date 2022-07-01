@@ -5,3 +5,6 @@ Time: 14:36 PM.
 My company: brightskies
 Date: 7/1/2022.
 Time: 14:50 PM.
+
+My title: Sr. Embedded developer.
+My previous company: El-Sewedy Electrometer group.
