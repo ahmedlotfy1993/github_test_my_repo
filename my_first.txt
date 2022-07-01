@@ -8,3 +8,8 @@ Time: 14:50 PM.
 
 My title: Sr. Embedded developer.
 My previous company: El-Sewedy Electrometer group.
+
+My status: Single.
+My nationality: egyptian.
+
+My hoopy: football.
